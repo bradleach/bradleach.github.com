@@ -6,9 +6,25 @@
     <atom:link href="http://domain/rss.xml" rel="self" type="application/rss+xml" />
     <description></description>
     <language>en-au</language>
-    <pubDate>Tue, 05 Jun 2012 19:52:51 %z</pubDate>
-    <lastBuildDate>Tue, 05 Jun 2012 19:52:51 %z</lastBuildDate>
+    <pubDate>Tue, 05 Jun 2012 20:49:06 %z</pubDate>
+    <lastBuildDate>Tue, 05 Jun 2012 20:49:06 %z</lastBuildDate>
 
+    
+    <item>
+      <title>I think I finally get it.</title>
+      <link>http://domain/2012/06/05/ithinkifinallygetit.html</link>
+      <pubDate>Tue, 05 Jun 2012 00:00:00 %z</pubDate>
+      <author>Author</author>
+      <guid>http://domain/2012/06/05/ithinkifinallygetit.html</guid>
+      <description><h2>I think I finally get it.</h2>
+<p>I started using Windows 8 with the first release of the Developer Preview. I've installed each version since, yet by and large, the OS has thoroughly unimpressed me. I found it very cumbersome to use with a mouse and keyboard. I couldn't really see what Microsoft was aiming for.</p>
+<p>But today, I think I have started to understand.</p>
+<p>A heap of new hardware was announced at Computex today. The one item that really took my interest was the ASUS Transformer Book.</p>
+<p>It's a notebook, running the full version of Windows 8 (none of this Windows RT stuff!), but it can detach the screen and work as a full tablet. It can be configured with an Ivy Bridge i7 CPU, with a reasonable 4GB max of RAM (although 8GB would have been much better for me), and of course SSD, etc.</p>
+<p>For the very first time, I can see a use of Windows 8 in my life. If this was matched with a good digitizer (possible?) and the possibility of multiple external monitors (unlikely, but hopeful), this may very well be a great setup for both home and work.</p>
+<p>I am, for the first time, actually starting to take an interest in Windows 8.</p>
+</description>
+    </item>
     
     <item>
       <title>My First Post</title>
